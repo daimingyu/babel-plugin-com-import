@@ -1,0 +1,22 @@
+
+# git origin
+/.git/
+/.vscode/
+
+# object file ignore
+/config/
+/node_modules/
+/docs/
+/public/
+/scripts/
+/src/
+
+# config file
+.gitignore
+.npmignore
+.babelrc
+tslint.json
+tsconfig.json
+yarn.lock
+*.log
+web.txt
